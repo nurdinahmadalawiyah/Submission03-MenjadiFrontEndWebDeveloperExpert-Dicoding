@@ -255,6 +255,7 @@ main {
     width: 100%;
     min-height: 44px;
     font-size: 18px;
+    border-radius: 5px;
 }
 
 .restaurant-item-button:hover {
